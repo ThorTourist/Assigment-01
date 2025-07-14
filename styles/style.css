@@ -26,9 +26,6 @@ html, body {
 }
 
 
-
-
-
 /* Header div design */
 .header-container{
     height: 500px;
@@ -69,7 +66,7 @@ html, body {
 }
 .header-headline{
     text-align: center;
-    font-size: xx-large;
+    font-size: 50px;
     
 }
 .btn-primary{
